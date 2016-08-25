@@ -1,0 +1,31 @@
+{
+  "hosts" : [ {
+    "title" : "default",
+    "threads" : [ {
+      "title" : "default",
+      "testCases" : [ {
+        "uid" : "acf94c011c0554dd",
+        "name" : "test 2",
+        "title" : "test 2",
+        "time" : {
+          "start" : 1472113859059,
+          "stop" : 1472113897875,
+          "duration" : 38816
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "e8cb7b74fc821b30",
+        "name" : "test 2",
+        "title" : "test 2",
+        "time" : {
+          "start" : 1472112786487,
+          "stop" : 1472112807577,
+          "duration" : 21090
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}

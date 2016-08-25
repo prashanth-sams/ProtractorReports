@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1472109446366" stop="1472109467729">
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1472113859058" stop="1472113897877">
 	<name>Test 2</name>
 	<title>Test 2</title>
 	<test-cases>
-		<test-case start="1472109446367" stop="1472109467728" status="passed">
+		<test-case start="1472113859059" stop="1472113897875" status="passed">
 			<name>test 2</name>
 			<title>test 2</title>
 			<description></description>
@@ -14,6 +14,7 @@
 			<steps>
 			</steps>
 			<attachments>
+				<attachment title="Screenshot" source="e831bbdb-1ce3-4659-b4c5-af4f6e5f8b3d-attachment.png" type="image/png" size="225037"/>
 			</attachments>
 		</test-case>
 	</test-cases>

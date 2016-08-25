@@ -1,0 +1,44 @@
+{
+  "uid" : "e8cb7b74fc821b30",
+  "name" : "test 2",
+  "title" : "test 2",
+  "time" : {
+    "start" : 1472112786487,
+    "stop" : 1472112807577,
+    "duration" : 21090
+  },
+  "summary" : {
+    "attachments" : 1,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "19a3fa678b6749dc",
+    "name" : "Test 2",
+    "title" : "Test 2"
+  },
+  "steps" : [ ],
+  "attachments" : [ {
+    "title" : "Screenshot",
+    "source" : "040088ff-bb45-426b-8f39-772f52b05a23-attachment.png",
+    "type" : "image/png",
+    "size" : 225083,
+    "uid" : "dcbe0eff28bf1ef0"
+  } ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Test 2"
+  }, {
+    "name" : "suite-title",
+    "value" : "Test 2"
+  } ],
+  "parameters" : [ ]
+}
