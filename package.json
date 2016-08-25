@@ -1,0 +1,20 @@
+{
+  "name": "progrunt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Prashanth Sams",
+  "license": "MIT",
+  "scripts": {
+    "update-webdriver": "node_modules/grunt-protractor-runner/node_modules/protractor/bin/webdriver-manager update",
+    "start-webdriver": "node_modules/grunt-protractor-runner/node_modules/protractor/bin/webdriver-manager start 2>&1 &",
+    "status-webdriver": "node_modules/grunt-protractor-runner/node_modules/protractor/bin/webdriver-manager status",
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-protractor-runner": "^3.2.0",
+    "jasmine-allure-reporter": "^1.0.1",
+    "protractor": "^4.0.3"
+  }
+}
